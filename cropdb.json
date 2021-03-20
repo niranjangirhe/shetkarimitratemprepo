@@ -405,6 +405,180 @@
     "cropcode": "73",
     "cultivation": "https://www.agrifarming.in/watermelon-farming-information",
     "project": "https://www.agrifarming.in/watermelon-farming-information"
+  },
+  {
+    "cropname": "Ajwan",
+    "cropcode": "137",
+    "cultivation": "https://www.agrifarming.in/ajwain-cultivation-income-carom-seeds-project-report",
+    "project": "https://www.agrifarming.in/ajwain-cultivation-income-carom-seeds-project-report"
+  },
+  {
+    "cropname": "Bajra(Pearl Millet)",
+    "cropcode": "28",
+    "cultivation": "https://www.agrifarming.in/bajra-cultivation",
+    "project": "https://www.agrifarming.in/bajra-cultivation-income-pearl-millet-yield-profit-guide"
+  },
+  {
+    "cropname": "Beans",
+    "cropcode": "94",
+    "cultivation": "https://www.agrifarming.in/indian-bean-cultivation",
+    "project": "https://www.agrifarming.in/french-beans-farming-income-cost-project-report"
+  },
+  {
+    "cropname": "Ber (Zizyphus)",
+    "cropcode": "357",
+    "cultivation": "https://www.agrifarming.in/ber-fruit-cultivation",
+    "project": "https://www.agrifarming.in/apple-ber-cultivation-income-profit-project-report-yield"
+  },
+  {
+    "cropname": "Castor Seed",
+    "cropcode": "123",
+    "cultivation": "https://www.agrifarming.in/castor-cultivation-information-guide",
+    "project": "https://www.agrifarming.in/castor-cultivation-income-yield-project-report"
+  },
+  {
+    "cropname": "Chili Red",
+    "cropcode": "26",
+    "cultivation": "https://www.agrifarming.in/chilli-farming",
+    "project": "https://www.agrifarming.in/chilli-farming-profit-cost-project-report-pepper"
+  },
+  {
+    "cropname": "Cotton",
+    "cropcode": "15",
+    "cultivation": "https://www.agrifarming.in/cotton-farming-guide",
+    "project": "https://www.agrifarming.in/cotton-cultivation-project-report-farming-cost-profit"
+  },
+  {
+    "cropname": "Drumstick",
+    "cropcode": "168",
+    "cultivation": "https://www.agrifarming.in/drumstick-farming",
+    "project": "https://www.agrifarming.in/drumstick-farming-project-report-cost-profit"
+  },
+  {
+    "cropname": "Garlic",
+    "cropcode": "25",
+    "cultivation": "https://www.agrifarming.in/garlic-farming",
+    "project": "https://www.agrifarming.in/garlic-cultivation-income-cost-profit-project-report"
+  },
+  {
+    "cropname": "Gladiolus Bulb",
+    "cropcode": "364",
+    "cultivation": "https://www.agrifarming.in/gladiolus-cultivation",
+    "project": "https://www.agrifarming.in/gladiolus-cultivation"
+  },
+  {
+    "cropname": "Green Peas",
+    "cropcode": "50",
+    "cultivation": "https://www.agrifarming.in/green-peas-farming",
+    "project": "https://www.agrifarming.in/green-peas-farming"
+  },
+  {
+    "cropname": "Gwar",
+    "cropcode": "75",
+    "cultivation": "https://www.agrifarming.in/cluster-bean-farming",
+    "project": "https://www.agrifarming.in/cluster-bean-cultivation-income-guar-project-report"
+  },
+  {
+    "cropname": "Indian Beans (Seam / Field Bean / Wal)",
+    "cropcode": "299",
+    "cultivation": "https://www.agrifarming.in/indian-bean-cultivation",
+    "project": "https://www.agrifarming.in/french-beans-farming-income-cost-project-report"
+  },
+  {
+    "cropname": "Jasmine",
+    "cropcode": "229",
+    "cultivation": "https://www.agrifarming.in/jasmine-farming",
+    "project": "https://www.agrifarming.in/jasmine-cultivation-project-report-farming-economics"
+  },
+  {
+    "cropname": "Lime",
+    "cropcode": "180",
+    "cultivation": "https://www.agrifarming.in/lime-farming",
+    "project": "https://www.agrifarming.in/lime-farming"
+  },
+  {
+    "cropname": "Methi (Fenugreek)",
+    "cropcode": "46",
+    "cultivation": "https://www.agrifarming.in/fenugreek-farming-methi",
+    "project": "https://www.agrifarming.in/fenugreek-farming-methi"
+  },
+  {
+    "cropname": "Mousambi",
+    "cropcode": "77",
+    "cultivation": "https://www.agrifarming.in/mosambi-cultivation-cost-profits",
+    "project": "https://www.agrifarming.in/mosambi-cultivation-cost-profits"
+  },
+  {
+    "cropname": "Mustard",
+    "cropcode": "12",
+    "cultivation": "https://www.agrifarming.in/mustard-farming-information",
+    "project": "https://www.agrifarming.in/mustard-cultivation-income-yield-poject-report"
+  },
+  {
+    "cropname": "Onion",
+    "cropcode": "23",
+    "cultivation": "https://www.agrifarming.in/onion-farming",
+    "project": "https://www.agrifarming.in/onion-cultivation-income-project-report-yield-profits"
+  },
+  {
+    "cropname": "Orange",
+    "cropcode": "18",
+    "cultivation": "https://www.agrifarming.in/orange-farming",
+    "project": "https://www.agrifarming.in/orange-farming-project-report-cost-profit"
+  },
+  {
+    "cropname": "Potato",
+    "cropcode": "24",
+    "cultivation": "https://www.agrifarming.in/potato-farming",
+    "project": "https://www.agrifarming.in/potato-farming"
+  },
+  {
+    "cropname": "Ragi (Finger Millet)",
+    "cropcode": "30",
+    "cultivation": "https://www.agrifarming.in/finger-millet-farming",
+    "project": "https://www.agrifarming.in/finger-millet-farming"
+  },
+  {
+    "cropname": "Rice",
+    "cropcode": "3",
+    "cultivation": "https://www.agrifarming.in/rice-cultivation-information-guide",
+    "project": "https://www.agrifarming.in/rice-farming-project-report-paddy-cultivation"
+  },
+  {
+    "cropname": "Spinach (Palak)",
+    "cropcode": "342",
+    "cultivation": "https://www.agrifarming.in/spinach-farming-in-india",
+    "project": "https://www.agrifarming.in/spinach-farming-in-india"
+  },
+  {
+    "cropname": "Sweet Potato",
+    "cropcode": "152",
+    "cultivation": "https://www.agrifarming.in/sweet-potato-farming",
+    "project": "https://www.agrifarming.in/sweet-potato-cultivation-income-profit-project-report"
+  },
+  {
+    "cropname": "Tamarind Fruit",
+    "cropcode": "261",
+    "cultivation": "https://www.agrifarming.in/tamarind-farming",
+    "project": "https://www.agrifarming.in/organic-tamarind-production-cultivation-farming-in-india"
+  },
+  {
+    "cropname": "Tobacco",
+    "cropcode": "141",
+    "cultivation": "https://www.agrifarming.in/organic-tobacco-cultivation-farming-practices",
+    "project": "https://www.agrifarming.in/organic-tobacco-cultivation-farming-practices"
+  },
+  {
+    "cropname": "Tube Flower",
+    "cropcode": "234",
+    "cultivation": "https://www.agrifarming.in/tuberose-cultivation-beginners-guide",
+    "project": "https://www.agrifarming.in/tuberose-cultivation-beginners-guide"
+  },
+  {
+    "cropname": "Wheat",
+    "cropcode": "1",
+    "cultivation": "https://www.agrifarming.in/wheat-farming-information",
+    "project": "https://www.agrifarming.in/wheat-cultivation-income-profit-yield-proejct-report"
   }
 ]
 
